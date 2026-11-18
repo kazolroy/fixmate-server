@@ -2,9 +2,9 @@
 
 REST API for **FixMate**, the smart device & home appliance repair platform (Assignment 9 · Category 006).
 
-- **Live API:** `https://YOUR-SERVER.vercel.app`
-- **Client repo:** `https://github.com/YOUR-USER/fixmate-client`
-- **Live site:** `https://YOUR-CLIENT.vercel.app`
+- **Live API:** `https://fixmate-server-plum.vercel.app`
+- **Client repo:** `https://github.com/kazolroy/fixmate-client`
+- **Live site:** `https://fixmate-client-chi.vercel.app`
 
 **Admin login (seeded from the client repo):** `admin@fixmate.test` / `Admin123`
 
